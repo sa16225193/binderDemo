@@ -1,0 +1,2 @@
+# binderDemo
+通过aidl建立Server端和Client端的通信
